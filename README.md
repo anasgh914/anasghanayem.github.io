@@ -10,10 +10,13 @@ This is a page where I will be putting some of my projects that include python c
 
 ### Machine Learning methods in Cyber Security
 
-
-In a world that relies on Data that drives organizations and businesses, detecting cyber attacks and data breaches by using machine learning methods can be a reliable combination of automating the protection and confronting data breach attempts. Using machine learning classifiers for setting rules and conditions to distinguish a valid and authorized user from intruders who may take advantage of gaining access to millions of records on a platform whether it is private or official sector. The project of ML intrusion detection composed of data processing and data analysis, feature extraction, and training revised version of KDD99 cup data set for intrusion Detection. The approach is to compare and apply 5 selected ML methods and evaluate the best-resulting model in terms of accuracy and speed to a newly trained model that can be fed into a real-life network to provide a real-time confronting and detecting data breach system.
+<figure>
+<img src="https://user-images.githubusercontent.com/70274697/126490140-cf80891e-6237-460a-bcda-49b4314ab05a.png" alt="Trulli" style="width:100%">
+<figcaption align = "center"><b>Fig.1 - ML Diagram</b></figcaption>
+</figure>
 
 ![Project diagram](https://user-images.githubusercontent.com/70274697/126490140-cf80891e-6237-460a-bcda-49b4314ab05a.png)
+
 **Figure 1**
 
 
