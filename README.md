@@ -6,8 +6,6 @@
 
 This is a page where I will be putting some of my projects that include python codes and applications
 
-![index_html_efe9dcc37d03d07a](https://user-images.githubusercontent.com/70274697/126488375-f529fcba-24da-4f24-9df2-4c8df952dff6.png)
-
 
 
 ### Machine Learning methods in Cyber Security
