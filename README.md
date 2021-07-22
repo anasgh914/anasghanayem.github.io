@@ -17,5 +17,4 @@ This is a page where I will be putting some of my projects that include python c
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/https://github.com/anasgh914/count.svg)
 
