@@ -34083,7 +34083,7 @@ a.u-link.u-text-hover-grey-90:hover {
   min-height: 86px;
 }
 .u-header .u-sheet-2 {
-  min-height: 140px;
+  min-height: 127px;
 }
 
 .u-header .u-image-1 {
@@ -34098,7 +34098,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -36px auto 30px;
+  margin: -58px auto 39px;
 }
 
 .u-header .u-nav-1 {
@@ -34113,11 +34113,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
 }
 
-@media (max-width: 1199px) {
-  .u-header .u-menu-1 {
-    margin-top: -36px;
-  }
-}
+
 
 
 
